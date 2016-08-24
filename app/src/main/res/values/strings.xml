@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GcmTryOutClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="PNB_PUBKEY">pub-c-162c2393-87c6-4ac1-b7dc-91cc17454139</string>
+    <string name="PNB_SUBKEY">sub-c-fe9c32de-4efe-11e6-9236-02ee2ddab7fe</string>
+    <string name="PN_PUSH_CHANNEL">samplePushChannel</string>
+    <string name="DATABASE_NAME">GoogleInstanceDB</string>
+
+
+</resources>
